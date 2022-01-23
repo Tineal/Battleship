@@ -1,5 +1,5 @@
 # Battleship
-An assignment done for my Principles of Programming class in Birkbeck
+An assignment done for my Principles of Programming class in Birkbeck in 2021 fall semester.
 The images below were provided by the instructor to us.
 
 About the game:
