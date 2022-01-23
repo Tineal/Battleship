@@ -26,7 +26,9 @@ Once all the ships are sunk, the game is over :)
 
 About the files:
 
-There are 2 files I am sharing here, one is for the game and the other is for the testing.
+There are 3 files I am sharing here.
+Battleship file is the game without visualization and extension file is the game with visualization.
+The testing_battleship file is for the testing.
 The assignment asked us to use a test driven approach to coding so all the tests for the functions used were developed before the functions were.
 Tests were done using pytest and they can be found in the test_battleship file.
 
