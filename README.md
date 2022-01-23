@@ -22,6 +22,8 @@ The random ship placement follows the rules of the battleship game, meaning that
 
 Everytime the player takes a shot the computer will tell whether it is a hit or a miss, and it will keep track of all the shots made so far and show it graphically.
 Once a ship is sunk, it is told to the player.
+To take a shot, just put in the row and column number separated by space (0-9), and to quit, simply input "quit".
+The game will keep track of how many shots you took and tell you at the end, the lower the number, the better.
 Once all the ships are sunk, the game is over :)
 
 About the files:
